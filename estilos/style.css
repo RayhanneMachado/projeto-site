@@ -6,7 +6,7 @@ body{
     background-color: antiquewhite;
 }
 main{
-    background-color: white;
+    background-color: rgb(255, 245, 245);
     width: 500px;
     margin: auto;
     padding: 10px ;
